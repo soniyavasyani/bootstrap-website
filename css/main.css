@@ -1,0 +1,30 @@
+body{
+    font-family: 'Arvo', serif;
+}
+.height{
+    min-height: 100vh;
+}
+.title-underline{
+    width: 200px;
+    height: 10px;
+    margin: 0 auto;
+}
+.height-80{
+    min-height: 80vh;
+}
+.about-img{
+    background: url(../img/laptop.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.filter{
+    background:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0.1)) ,url(../img/pexels-photo-1591382.jpeg); 
+    min-height: 100vh;
+}
+#progress
+{
+    background:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0.1)) ,url(../img/form.jpeg); 
+    min-height: 100vh;
+}
